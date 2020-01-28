@@ -2,13 +2,19 @@
 
 learn basics of pyQt5,
 
+## For Personal Project
+
+QFileDialog -> allow user to select file or dir, able to convert the punch file to excel
+
+## pyqt5 notes
+
 Support procedural and Object Oriented
 
 In example icon.py, class inherits from QWidget class. super() return method of parent object
 
 setGeometry => 4 numbers first two location of the window. third number is height and fourth is width
 
-## NOTES
+### modules available
 
 QtCore -> contains core non-GUI functionality (files,directories, stream, URLS,)
 QtGui -> classes for windows, events, 2d graphics, image, text
